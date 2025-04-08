@@ -1,4 +1,5 @@
-# Full-Stack Chat App (MERN)
+# Full-Stack Chat App (MERN) 
+-> <a>https://full-stack-chat-app-mern.onrender.com/</a>
 
 A real-time chat application built with the **MERN stack** (MongoDB, Express, React, Node.js) and **Socket.IO** for seamless communication. This app allows users to chat in real-time, view online users, and manage authentication securely.
 
