@@ -1,5 +1,5 @@
 import useGetConversations from "../../hooks/useGetConversations";
-import { getRandomEmoji } from "../../utils/emojis";
+// import { getRandomEmoji } from "../../utils/emojis";
 import Conversation from "./Conversation";
 
 const Conversations = () => {
@@ -10,7 +10,7 @@ const Conversations = () => {
 				<Conversation
 					key={conversation._id}
 					conversation={conversation}
-					emoji={getRandomEmoji()}
+					// emoji={getRandomEmoji()}
 					lastIdx={idx === conversations.length - 1}
 				/>
 			))}
@@ -21,19 +21,3 @@ const Conversations = () => {
 };
 export default Conversations;
 
-// STARTER CODE SNIPPET
-// import Conversation from "./Conversation";
-
-// const Conversations = () => {
-// 	return (
-// 		<div className='py-2 flex flex-col overflow-auto'>
-// 			<Conversation />
-// 			<Conversation />
-// 			<Conversation />
-// 			<Conversation />
-// 			<Conversation />
-// 			<Conversation />
-// 		</div>
-// 	);
-// };
-// export default Conversations;
