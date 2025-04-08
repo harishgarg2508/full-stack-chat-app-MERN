@@ -26,7 +26,7 @@ A real-time chat application built with the **MERN stack** (MongoDB, Express, Re
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/full-stack-chat-app-MERN.git](https://github.com/harishgarg2508/full-stack-chat-app-MERN.git
+git clone https://github.com/harishgarg2508/full-stack-chat-app-MERN.git
 cd full-stack-chat-app-MERN
 ```
 
