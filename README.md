@@ -78,6 +78,8 @@ To set up the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/harishgarg2508/full-stack-chat-app-MERN.git
+   ```
+```bash
 Navigate to the Project Directory:
 
 cd full-stack-chat-app-MERN
@@ -114,7 +116,9 @@ Frontend:
 cd frontend
 npm start
 The frontend development server will start on http://localhost:3000.
+```
 
+```bash
 Project Structure
 The repository is organized as follows:
 
@@ -174,7 +178,8 @@ App.js: Main component that sets up routing.
 index.js: Entry point for the React application.
 
 tailwind.config.js: Configuration file for Tailwind CSS.
-
+```
+```bash
 Usage
 User Registration:
 
@@ -211,4 +216,5 @@ Create a new branch (git checkout -b feature/YourFeature).
 
 Make your changes.
 
-Commit your changes (`git commit -m '
+Commit your changes (`git commit -m 
+```
