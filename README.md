@@ -15,7 +15,7 @@ Welcome to the Full-Stack Chat Application repository! This project is a real-ti
 - [License](#license)
 
 ## Demo
-
+Kindly allow a few moments after clicking the link, as the server may take some time to respond initially.
 You can experience the live demo of the application here: [full-stack-chat-app-mern.onrender.com](https://full-stack-chat-app-mern.onrender.com/)
 
 ## Features
